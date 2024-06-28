@@ -2,6 +2,8 @@
 
 ![Alathis](files/AlathisWorld.jpg)
 
+Created and written by Lane
+
 ## [Dive into Alathis](Alathis/index.md)
 
 ## [Adventures](Adventures/index.md)
