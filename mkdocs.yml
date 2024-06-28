@@ -2,3 +2,13 @@ site_name: Alathis Dungeons and Dragons
 site_url: https://DNApf.github.io/AlathisDnD
 theme:
   name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.follow
+    - navigation.top
+    - navigation.indexes
+  plugins:
+    - search:
+        lang: en

@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome to the world of ALATHIS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Alathis](files/AlathisWorld.jpg)
 
-## Commands
+## [Dive into Alathis](Alathis/index.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## [Adventures](Adventures/index.md)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## [Heroes of Alathis](Heroes/index.md)
