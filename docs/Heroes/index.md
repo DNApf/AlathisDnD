@@ -1,6 +1,6 @@
 # Heroes of Alathis
 
-## [Fae](Fae/index.md)
+## [Fae Vandorvil](Fae/index.md)
 
 ## [Prokol Proktologe? idk](Prokol/index.md)
 

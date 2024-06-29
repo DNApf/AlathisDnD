@@ -4,16 +4,26 @@
 
 <img src="Fae_portrait.png" style="float: right;" alt="Fae" width="300"/>
 
-| Fae           |               |
+| Fae Vandorvil |               |
 |---------------|---------------|
 | Age           | 24            |
 | Class         | Druid         |
 | Race          | Wood Elf      |
-| Alignment     | Lawful Good   |
+| Alignment     | Neutral Good  |
 | Background    | Hermit        |
 | Player        | Dana          |
 
 ## Biography
+
+- abandoned by biological parents at birth in the deep winter of peak side woods near an inhabitated lodge
+
+- found, raised and adopted by the lodge inhabitants: a female druid wood elf Llaina and a male firbolg (valid?) Aemaer, who fell in love with each other after Aemaer leaped through a portal and escaped from his society
+
+- mother by choice Llaina is part of the druidic circle but keeps her love relationship a secret
+
+- Fae grew up in the rough nature, befriended with wolves and other creatures and soon chose to be a druid to study nature, balance, animals and herbalism
+
+- she rarely had friends and, unlike other elves, loves using crude and vulgar language
 
 ## Character
 
