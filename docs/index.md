@@ -2,12 +2,14 @@
 
 ![Alathis](files/AlathisWorld.jpg)
 
-Created and written by Lane
+Welcome to our Dungeons and Dragons campaign created and written by Lane.
 
 Rules and reference: [https://www.dndbeyond.com](https://www.dndbeyond.com)
 
-## [Dive into Alathis](Alathis/index.md)
+## [About Alathis](Alathis/index.md)
 
 ## [Adventures](Adventures/index.md)
 
 ## [Heroes of Alathis](Heroes/index.md)
+
+## [People of Alathis](People/index.md)
