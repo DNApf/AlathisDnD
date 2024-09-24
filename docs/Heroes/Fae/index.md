@@ -22,8 +22,8 @@ Side](../../Alathis/index.md#the-peak-side-woods). It was close to a miracle, th
 The lodge was empty when Llaina returned home. Her secret love Aemaer, a firbolg barbarian, was out hunting for food and making sure that no enemy creatures roam close by the lodge. Llaina quickly
 grabbed some fresh blankets, carefully wrapped the baby in it and pulled it close while she sat down next to the fireplace. Just then she could have a close look at the creature. It was a female elf,
 almost certainly a wood elf, just like herself, with a few copper red hair already showing on her head. She couldn't have been older than four to six weeks. The only thing with her was a small broach
-in the shape of a feather with small green and white jewels, that held her old blankets together. Llaina soon noticed the baby finally warming up and her skin slowly turning from bluey to rose.
-Beatiful, bright blue eyes were staring right into Llaina's eyes. She fed the baby with goat milk and named her Fae. It was out of question for her whether to keep and raise the little baby. Luckily,
+in the shape of a feather with small green and white jewels, that held her old blankets together. Llaina soon noticed the baby finally warming up and her skin color slowly turning from bluey to rose.
+Beautiful, bright blue eyes were staring right into Llaina's eyes. She fed the baby with goat milk and named her Fae. It was out of question for her whether to keep and raise the little baby. Luckily,
 Aemaer was just as happy to welcome the new family member. They found something in her, they weren't looking for and finally made the young family complete.
 
 Growing up in the peak side woods was not an easy task. Fae has spent a lot of time understanding and perfecting the ways and laws of nature. Like her adoptive mom she has begun to perfect the ways of
